@@ -111,3 +111,5 @@ void loop() {
 
 }
 ```
+ -조도센서 동작원리
+ <img width = "300" hight="300" src="./png/cds.png"></img>
