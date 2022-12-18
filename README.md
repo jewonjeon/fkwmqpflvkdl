@@ -94,3 +94,20 @@ $ sudo apt-get install fonts-unfonts-core
 $ sudo apt-get install ibus ibus-hangul
 $ sudo reboot
 ```
+
+##아두이노 조도센서 -> 라즈베리파이 grafana 표시
+  -조도센서( cda 조도센서)
+```
+void setup() {
+
+  Serial.begin(9600);
+
+}
+
+void loop() {
+ int readValue = analogRead(A0);
+ Serial.println(readValue);
+ delay(1000);
+
+}
+```
