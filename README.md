@@ -97,7 +97,7 @@ $ sudo reboot
 
 ##아두이노 조도센서 -> 라즈베리파이 grafana 표시
   -조도센서( cda 조도센서)
-```
+```c
 void setup() {
 
   Serial.begin(9600);
