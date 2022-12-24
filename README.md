@@ -87,8 +87,9 @@ import Adafruit_DHT
 ```
 참고 사이트 - https://blog.naver.com/PostView.nhn?blogId=emperonics&logNo=222092518468
 ## 아두이노 소스코드
-
-
+img width = "300" hight="300" src="./png/dht.png"></img>
+## 라즈베리파이 소스코드
+->파일 확인
 
 ## 기타 설정
   - 한글깨짐
