@@ -94,6 +94,8 @@ $ sudo apt-get install fonts-unfonts-core
 $ sudo apt-get install ibus ibus-hangul
 $ sudo reboot
 ```
+## 데이터 베이스에 저장
+-> 
 
 ##아두이노 조도센서 -> 라즈베리파이 grafana 표시
   -조도센서( cda 조도센서)
