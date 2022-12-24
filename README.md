@@ -86,6 +86,9 @@ sudo pip3 install Adafruit_DHT
 import Adafruit_DHT
 ```
 참고 사이트 - https://blog.naver.com/PostView.nhn?blogId=emperonics&logNo=222092518468
+## 아두이노 소스코드
+
+
 
 ## 기타 설정
   - 한글깨짐
